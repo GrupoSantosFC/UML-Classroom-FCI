@@ -27,14 +27,10 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Bruna Gonçalves Corte David - 10425696
+* Júlia Andrade - 10428513
+* Kleber Gadelha Ponte Souza Filho - 10321335
+* Gabriel de Matos de Campos Mello - 10322927
 
 
 # Descrição do Projeto
@@ -42,7 +38,32 @@
 *&lt;Introdução do projeto&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+
+**Requisitos Funcionais:**
+- Gerenciamento de Frotas: Operação remota e autônoma dos drones através de uma rede de servidores distribuídos e uma interface operacional avançada.
+- Monitoramento em Tempo Real: Transmitir dados de telemetria, status e eventos críticos.
+- Interface de Comando e Controle: Dashboard em tempo real com telemetria.
+- Priorizar processos: Conforme o status crítico da missão.
+- Operação autônoma: Operação baseada em redes neurais com detecção e evasão de ameaças e sensoriamento (via LIDAR, câmeras e GPS).
+- Comunicação segura: Comunicação segura e em tempo real com os drones (necessário para o funcionamento).
+- Logs de missões: Dados detalhados de cada missão e eventos críticos.
+- Logs de auditoria imutáveis para fins de segurança e conformidade.
+- Atualização automática.
+- Failover automático: Redirecionamento automático das operações para um servidor de backup.
+
+**Requisitos Não Funcionais:**
+- Segurança:
+  - Criptografia de ponta e assinaturas digitais.
+  - Autenticação de operadores via biometria e autenticação multifator.
+- Latência: Limite de latência menor que 50ms.
+- Logs.
+- Bancos de dados: Banco de dados e sincronização dos dados dos drones em tempo real.
+- Gerenciamento de múltiplas threads de sensores, navegação e IA.
+- Conformidade (Boas Práticas): O sistema deve atender a padrões de segurança como ISO 27001 e NIST 800-53 para segurança cibernética.
+- Recuperação automática de falhas.
+- Eficiência energética: Otimização do consumo de bateria.
+- Logs: Armazenamento por tempo determinado em leis e políticas de segurança.
+
 
 # Diagrama de Atividades
 
