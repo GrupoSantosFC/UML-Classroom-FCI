@@ -1,9 +1,8 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
-
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*Sistema Falcão Sombrio para Drones*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -24,54 +23,74 @@
 - [Diagrama de Implantação](#diagrama-de-hardware-software)
 - [Referências](#referências)
 
-
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
+* Bruna Gonçalves Corte David - 10425696  
+* Júlia Andrade - 10428513  
+* Kleber Gadelha Ponte Souza Filho - 10321335  
+* Gabriel de Matos de Campos Mello - 10322927  
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+O projeto tem como objetivo a elaboração de documentação para o sistema inovador **Falcão Sombrio**, concebido para o gerenciamento e operação remota e autônoma de frotas de drones.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+
+### Requisitos Funcionais:
+- **Gerenciamento de Frotas**: Operação remota e autônoma dos drones através de uma rede de servidores distribuídos e uma interface operacional avançada.  
+- **Monitoramento em Tempo Real**: Transmitir dados de telemetria, status e eventos críticos.  
+- **Interface de Comando e Controle**: Dashboard em tempo real com telemetria.  
+- **Priorização de Processos**: Conforme o status crítico da missão.  
+- **Operação Autônoma**: Baseada em redes neurais com detecção e evasão de ameaças e sensoriamento (via LIDAR, câmeras e GPS).  
+- **Comunicação Segura**: Comunicação em tempo real e criptografada com os drones (essencial para o funcionamento).  
+- **Logs de Missões**: Dados detalhados de cada missão e eventos críticos.  
+- **Logs de Auditoria**: Imutáveis, para fins de segurança e conformidade.  
+- **Atualização Automática**  
+- **Failover Automático**: Redirecionamento automático das operações para um servidor de backup.  
+
+### Requisitos Não Funcionais:
+- **Segurança**: Criptografia de ponta, assinaturas digitais, autenticação biométrica e multifator.  
+- **Latência**: Limite máximo de 50ms.  
+- **Logs**: Armazenamento conforme leis e políticas de segurança.  
+- **Banco de Dados**: Sincronização em tempo real dos dados dos drones.  
+- **Gerenciamento de Múltiplas Threads**: Para sensores, navegação e IA.  
+- **Conformidade**: Atende aos padrões ISO 27001 e NIST 800-53.  
+- **Recuperação de Falhas**: Automatizada.  
+- **Eficiência Energética**: Otimização do consumo de bateria.  
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![Diagrama de Atividades](imagens/diagramaDeAtividades.jpg)
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Diagrama de Casos de Uso](imagens/casosDeUso.jpg)
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![Tabela de Casos de Uso - Parte 1](imagens/tabelas/tabela1.jpg)
+![Tabela de Casos de Uso - Parte 2](imagens/tabelas/tabela2.jpg)
+![Tabela de Casos de Uso - Parte 3](imagens/tabelas/tabela3.jpg)
+![Tabela de Casos de Uso - Parte 4](imagens/tabelas/tabela4.jpg)
+![Tabela de Casos de Uso - Parte 5](imagens/tabelas/tabela5.jpg)
+
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+*<Diagrama de ordem e interação dos objetos>*
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+*<Diagrama de relacionamento entre classes para os seus atributos e operações>*
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+*<Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global>*
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+*<Diagrama para exibir o relacionamento de hardware e software no projeto>*
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+*<Lista de referências>*
