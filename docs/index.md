@@ -70,11 +70,11 @@ O projeto tem como objetivo a elaboração de documentação para o sistema inov
 
 # Diagrama de Sequência
 
-*<Diagrama de ordem e interação dos objetos>*
+![Diagrama de Sequência](Diagrama_de_Sequência.jpg)
 
 # Diagrama de Classes
 
-*<Diagrama de relacionamento entre classes para os seus atributos e operações>*
+![Diagrama de Classes](Diagrama_de_Classes.jpg)
 
 # Diagrama de Estados
 
