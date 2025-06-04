@@ -83,7 +83,3 @@ O projeto tem como objetivo a elaboração de documentação para o sistema inov
 # Diagrama de Implantação
 
 ![Diagrama de Implantação](imagens/Diagrama_de_Implantação.jpg)
-
-# Referências
-
-*<Lista de referências>*
