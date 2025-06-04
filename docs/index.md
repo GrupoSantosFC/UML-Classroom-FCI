@@ -70,11 +70,11 @@ O projeto tem como objetivo a elaboração de documentação para o sistema inov
 
 # Diagrama de Sequência
 
-![Diagrama de Sequência](Diagrama_de_Sequência.jpg)
+![Diagrama de Sequência](imagens/Diagrama_de_Sequência.jpg)
 
 # Diagrama de Classes
 
-![Diagrama de Classes](Diagrama_de_Classes.jpg)
+![Diagrama de Classes](imagens/Diagrama_de_Classes.jpg)
 
 # Diagrama de Estados
 
