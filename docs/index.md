@@ -78,7 +78,7 @@ O projeto tem como objetivo a elaboração de documentação para o sistema inov
 
 # Diagrama de Estados
 
-*<Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global>*
+![Diagrama de Classes](imagens/Diagrama_de_Estados.jpg)
 
 # Diagrama de Implantação
 
