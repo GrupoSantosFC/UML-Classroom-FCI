@@ -14,7 +14,6 @@
 - [Diagrama de Classes](#diagrama-orientado-objetos)
 - [Diagrama de Estados](#diagrama-estrutura-componente)
 - [Diagrama de Implantação](#diagrama-de-hardware-software)
-- [Referências](#referências)
 
 # Autores
 
